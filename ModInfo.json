@@ -1,0 +1,8 @@
+{
+	"internalName": "DaLinkOfeeder",
+    "displayName": "DaLinkO Feeder Mod",
+	"author": "bfayer",
+    "info": "This mod sends player stats and other game data to DaLinkO",
+	"version": "5/1/2014"
+
+}
